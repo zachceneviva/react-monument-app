@@ -9,4 +9,4 @@ function Article3 () {
     )
 }
 
-export default Article3
+export default Article3 

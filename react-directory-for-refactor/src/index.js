@@ -8,7 +8,7 @@ import Blog from './Blog-Page/blog-components.js';
 ReactDOM.render(
   <React.StrictMode>
     <Index />
-    {/* <Blog/> */}
+    <Blog/>
   </React.StrictMode>,
   document.getElementById('root')
 );
